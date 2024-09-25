@@ -1,0 +1,22 @@
+.App {
+  .container {
+    table {
+      thead {
+      }
+      tbody {
+        tr {
+          td {
+            padding: 20px;
+            cursor: pointer;
+            .content {
+              p {
+                span {
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
